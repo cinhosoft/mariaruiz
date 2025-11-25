@@ -684,7 +684,7 @@ footer p {
         margin-top: 70px;
         padding: 50px 0;
         min-height: auto;
-        background: url('img/mariaruizbg.png') no-repeat center bottom / cover,
+        background: url('img/mariaruizbg.png') no-repeat center / contain,
                     linear-gradient(135deg, rgba(69, 183, 175, 0.7) 0%, rgba(232, 247, 245, 0.8) 50%, rgba(255, 255, 255, 0.3) 100%);
         background-blend-mode: overlay;
     }
@@ -693,6 +693,10 @@ footer p {
         grid-template-columns: 1fr;
         max-width: 100%;
         padding: 0 15px;
+    }
+
+    .hero-image {
+        display: none !important;
     }
 
     .section-title {
