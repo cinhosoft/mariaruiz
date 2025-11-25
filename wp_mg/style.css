@@ -39,7 +39,7 @@ body {
 /* ===== HEADER Y NAVEGACIÓN ===== */
 header {
     background: var(--color-white);
-    padding: 20px 0;
+    padding: 10px 0;
     position: fixed;
     width: 100%;
     top: 0;
@@ -54,7 +54,7 @@ header {
 }
 
 .logo img {
-    height: 50px;
+    height: 60px;
     width: auto;
 }
 
@@ -126,12 +126,12 @@ nav a:hover {
 
 /* ===== HERO SECTION ===== */
 .hero-section {
-    margin-top: 80px;
+    margin-top: 90px;
     padding: 80px 0;
     background: linear-gradient(135deg, rgba(69, 183, 175, 0.05) 0%, rgba(232, 247, 245, 0.5) 100%);
     position: relative;
     overflow: hidden;
-    min-height: 700px;
+    min-height: 750px;
     display: flex;
     align-items: center;
 }
@@ -637,7 +637,7 @@ footer p {
 
     nav {
         position: fixed;
-        top: 80px;
+        top: 90px;
         left: 0;
         right: 0;
         background: var(--color-white);
@@ -677,11 +677,11 @@ footer p {
     }
 
     .logo img {
-        height: 40px;
+        height: 95px;
     }
 
     .hero-section {
-        margin-top: 70px;
+        margin-top: 80px;
         padding: 50px 0;
         min-height: auto;
         background: url('img/mariaruizbg.png') no-repeat center / contain,
@@ -804,7 +804,7 @@ footer p {
     }
 
     .logo img {
-        height: 35px;
+        height: 85px;
     }
 
     .nav-container {
