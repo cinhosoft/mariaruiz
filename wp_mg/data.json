@@ -1,0 +1,55 @@
+{
+    "general": {
+        "brand_name": "Dra. Maria Angelica Ruiz Murez",
+        "brand_title": "Medicina Física y Rehabilitación"
+    },
+    "hero": {
+        "greeting": "Bienvenidos",
+        "name": "Dra. Maria Angelica Ruiz Murez",
+        "specialty": "Especialista en Medicina Física y Rehabilitación",
+        "tagline": "Comprometida con la recuperación funcional y el bienestar integral de cada paciente."
+    },
+    "about": {
+        "description_title": "Perfil Profesional",
+        "description_text": "Soy médico especialista en Medicina Física y Rehabilitación. Mi práctica se fundamenta en la atención médica humana y personalizada de alta calidad. Me distingo por ser una profesional honesta, dedicada y proactiva, con una sólida capacidad para el trabajo interdisciplinario, brindando un enfoque integral en los procesos de rehabilitación.",
+        "mission_title": "Nuestro Objetivo",
+        "mission_text": "Proporcionar un servicio médico eficiente y accesible, orientado a la atención de personas con enfermedades neuromusculares, lesiones de médula espinal, parálisis cerebral, espasticidad y lesiones cerebrales adquiridas.",
+        "values_title": "Valores Profesionales",
+        "values_list": [
+            "Innovación y estrategias terapéuticas actualizadas.",
+            "Eficiencia en el logro de resultados funcionales.",
+            "Vocación de servicio y empatía.",
+            "Honestidad y transparencia ética."
+        ]
+    },
+    "services": {
+        "title": "Servicios Ofertados",
+        "items": [
+            {
+                "name": "Consulta Especializada",
+                "desc": "Consulta de primera vez, control y seguimiento por especialista en fisiatría.",
+                "icon": "fa-user-doctor"
+            },
+            {
+                "name": "Procedimientos de Infiltración",
+                "desc": "Infiltración intralesional (articular, bursa, tendón, muscular) y bloqueo de unión mioneural.",
+                "icon": "fa-syringe"
+            },
+            {
+                "name": "Aplicación de Toxina Botulínica",
+                "desc": "Inyección de material miorelajante para manejo de espasticidad y otras condiciones.",
+                "icon": "fa-vial"
+            },
+            {
+                "name": "Neurofisiología",
+                "desc": "Electromiografía (uno o más músculos), Neuroconducción y Onda F.",
+                "icon": "fa-heart-pulse"
+            }
+        ]
+    },
+    "contact": {
+        "phone": "+57 300 953 8207",
+        "email": "fisiatria@mariaruiz.com.co",
+        "address": "Aguachica - Cesar, Colombia"
+    }
+}
